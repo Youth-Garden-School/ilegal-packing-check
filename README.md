@@ -29,7 +29,7 @@ Hệ thống phát hiện đỗ xe trái phép là một ứng dụng web sử d
 
 1. Clone repository:
 ```bash
-git clone https://github.com/Youth-Garden-School/ilegal-packing-check
+git clone https://github.com/Youth-Garden-School/ilegal-parking-check
 cd illegal-Parking-Detection
 ```
 2. Cài đặt các package cần thiết:
